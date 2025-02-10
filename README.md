@@ -6,7 +6,7 @@ I'm a current student in the Geographic Information Systems degree program at UN
 
 I am 24 years old and 
 I've been working in areas as Customer Service and Collections for almost 3 years. This experiences allowed me to develop strong soft skills in communication, typing and problem-solving. 
-Now, I keen on being part of a company where I can challenge myself and further develop my skills.
+Now, I keen on being part of a company where I can challenge myself every day.
 
 
 My hard skills include Excel, QGIS and Python. 
