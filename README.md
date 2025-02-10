@@ -1,6 +1,6 @@
 <h1 align="center"><b> Hi there! I'm Evelyn Suarez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h3 align="center"> Geographic Information System | Pyhton </h3>
+<h3 align="center"> Geographic Information System | Python </h3>
 
 I'm a current student in the Geographic Information Systems degree program at UNTREF and in the Data Analyst Certification program at Digital House, with a focus on Python.
 
