@@ -5,7 +5,7 @@
 I'm a current student in the Geographic Information Systems degree program at UNTREF and in the Data Analyst Certification program at Digital House, with a focus on Python.
 
 I am 24 years old and 
-I've been working in areas as Customer Service and Collections for almost 3 years. This experiences allowed to develop strong soft skills in communication, typing and problem-solving. 
+I've been working in areas as Customer Service and Collections for almost 3 years. This experiences allowed me to develop strong soft skills in communication, typing and problem-solving. 
 Now, I keen on being part of a company where I can challenge myself and further develop my skills.
 
 
