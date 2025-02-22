@@ -2,7 +2,7 @@
 
 <h3 align="center"> Geographic Information System | Python </h3>
 
-I'm a current student in the Geographic Information Systems degree program at UNTREF and in the Data Analyst Certification program at Digital House, with a focus on Python.
+I'm a current student in the Geographic Information Systems degree program at UNTREF and in the Data Analyst Certification program at Digital House.
 
 I am 24 years old and 
 I've been working in areas as Customer Service and Collections for almost 3 years. This experiences allowed me to develop strong soft skills in communication, typing and problem-solving. 
