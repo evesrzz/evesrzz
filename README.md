@@ -21,7 +21,7 @@
 - 📧 You can reach me at evelynsuarez19@gmail.com.
 
 
-###🌟 Always learning, improving, and ready for new challenges 🌟
+# #🌟 Always learning, improving, and ready for new challenges 🌟
 
 
 
