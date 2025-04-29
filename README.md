@@ -6,8 +6,6 @@
 
 👩‍💻 I am 24 years old and have almost 3 years of experience in Customer Service and Collections. These jobs helped me improve my communication, typing, and problem-solving skills.
 
-🚀 I want to work in a company where I can learn and grow every day.
-
 🛠️ My technical skills include Excel, QGIS, and Python (Pandas, NumPy, Matplotlib, and Seaborn).
 
 ## 👨🏻‍💻 About me!
