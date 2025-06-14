@@ -2,7 +2,7 @@
 
 <h3 align="center"> GIS | Python  </h3>
 
-🎓 I am studying Geographic Information Systems at UNTREF and taking the Data Analyst Certification at Digital House. I've already completed five out of eleven courses.
+🎓 I am studying Geographic Information Systems at UNTREF and taking the Data Analyst Certification at Digital House. I've already completed seven out of eleven courses.
 
 👩‍💻 I am 24 years old and have almost 3 years of experience in Customer Service and Collections. These jobs helped me improve my communication, typing, and problem-solving skills.
 
